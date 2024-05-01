@@ -1,11 +1,13 @@
 {
   "name": "@vitorpy/exp-backoff-fetch",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "module": "index.ts",
-  "type": "module",
   "repository": {
     "type": "git",
     "url": "https://github.com/vitorpy/exp-backoff-fetch.git"
+  },
+  "scripts": {
+    "build": "tsc"
   },
   "keywords": [
     "fetch",
